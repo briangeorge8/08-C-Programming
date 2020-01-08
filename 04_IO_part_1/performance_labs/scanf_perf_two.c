@@ -13,13 +13,17 @@ Objective:
 
 int main(void)
 {
+    // Holds the numbers to accomplish the multiplication statement and to display the result
     int num_one, num_two, result;
 
+    // Gets the two numbers to multiply from the user
     printf("Enter two numbers seperated by an astrisk: ");
     scanf("%d*%d", &num_one, &num_two);
 
+    // Computes the multiplication statement
     result = num_one * num_two;
 
+    // Prints the result to the user
     printf("%d * %d = %d", num_one, num_two, result);
 	
     // Ends main function & terminates program
