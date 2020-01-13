@@ -1,7 +1,7 @@
 /*
 Name: Brian George
 Date: 13 Jan 20
-Project: Switch/Case Statement
+Project: For Loops
 
 Objective: 
     Write a program that will evaluate a simple math formula.
